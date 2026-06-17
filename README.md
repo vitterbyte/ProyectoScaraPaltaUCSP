@@ -22,7 +22,7 @@ El proyecto funciona conectando tres áreas clave de la mecatrónica:
    - **Cinemática:** Scripts con los parámetros de Denavit-Hartenberg (FK) y cálculo por geometría/trigonometría (IK) para pasar de coordenadas espaciales a pasos de motor.
    - **Simulación Dinámica:** Modelo de bloques en Simscape Multibody (`simulacion_scara.slx`) donde validamos físicamente los eslabones y articulaciones antes de armar el robot.
 
-## 🛠️ Materiales
+##  Materiales
 * Placa Arduino UNO
 * CNC Shield V3 + Drivers DRV8825
 * 3 Motores NEMA 17
